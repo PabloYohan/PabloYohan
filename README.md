@@ -1,6 +1,7 @@
 ## Hiii! I'm Pablo Yohan
 
-- 🌱 I’m currently learning HTML5, CSS3 and JavaScript
+- 🎓 I'm currently in the third year of Bachelor's Degree in Interdisciplinary Science and Technology at UNIFESP.
+- 🌱 I’m learning HTML5, CSS3 and JavaScript
 
 <div align="center">
   <a href="https://github.com/PabloYohan">
