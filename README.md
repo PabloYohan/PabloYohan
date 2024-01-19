@@ -3,11 +3,14 @@
 - 🎓 I'm currently in the third year of Bachelor's Degree in Interdisciplinary Science and Technology at UNIFESP.
 - 🌱 I’m learning HTML5, CSS3, JavaScript and React
 
-<div align="center">
-  <a href="https://github.com/PabloYohan">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=PabloYohan&show_icons=true&theme=tokyonight"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PabloYohan&layout=compact&theme=tokyonight"/>
-</div>
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=PabloYohan&theme=tokyonight" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=PabloYohan&layout=compact&langs_count=8&card_width=320&theme=tokyonight" />
+</a>
+
 <div style="display: inline_block"><br>
   <img align="center" alt="Pablo-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Pablo-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
