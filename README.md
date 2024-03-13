@@ -1,6 +1,6 @@
 ## Hiii! I'm Pablo Yohan
 
-- 🎓 I'm currently in the third year of Bachelor's Degree in Interdisciplinary Science and Technology at UNIFESP.
+- 🎓 I'm currently in the fifth year of Bachelor's Degree in Interdisciplinary Science and Technology at UNIFESP.
 - 🌱 I’m learning React and Node.js
 
 
