@@ -1,14 +1,18 @@
 # 👨‍💻 About Me
 
-Hello! My name is Pablo Yohan 😊
+Hello! I'm **Pablo Yohan**, a **Software Engineer** from Brazil 🇧🇷.
 
-I hold a **Bachelor's degree in Science and Technology** 🎓 and I'm currently in the **final year of my Computer Science degree** 💻.
+🎓 I hold a **Bachelor's degree in Computer Science** from the Federal University of São Paulo (UNIFESP).
 
-Over the past **2 years**, I gained valuable hands-on experience as a **software development intern** 🛠️. I participated in designing, implementing, and maintaining software solutions, collaborating with developers, and applying theoretical knowledge to real-world challenges 🚀.
+💻 I work primarily with **backend and web development**, building, maintaining, and evolving software applications using technologies such as **Java, C#, .NET, Ruby on Rails, Python, JavaScript, SQL, AWS, and Docker**.
 
-Throughout my academic and professional journey, I’ve developed strong **problem-solving skills**, a passion for **learning new technologies** 📚, and a deep interest in building **efficient and scalable systems** ⚙️.
+⚙️ My experience includes developing new features and modules, designing and integrating **REST APIs**, working with relational databases, maintaining legacy systems, automating processes, and supporting application deployment and infrastructure.
 
-I'm excited to contribute to meaningful projects and grow as a software developer 💡.
+🧠 I'm particularly interested in **Software Engineering, Backend Development, System Design, Cloud Computing, and AI-assisted development**.
+
+📚 I value **clean code, SOLID principles, design patterns, maintainability, and continuous learning**, always looking for ways to build better and more scalable software.
+
+🚀 Currently focused on strengthening my software engineering skills and exploring new technologies to build reliable and well-designed systems.
 
 ##
 
